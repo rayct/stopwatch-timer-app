@@ -1,0 +1,6 @@
+[project]
+name = "stopwatch-timer-app"
+version = "0.1.0"
+description = "Minimal stopwatch and timer desktop application"
+authors = [{name="Raymond C. Turner"}]
+requires-python = ">=3.9"
