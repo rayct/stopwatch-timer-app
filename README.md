@@ -4,7 +4,7 @@ Minimal desktop stopwatch + timer built in Python.
 
 ## Run
 
-python src/app.py
+python src/app_modern.py
 
 ## Features
 
