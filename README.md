@@ -4,13 +4,15 @@ Minimal desktop stopwatch + timer built in Python.
 
 ## Run
 
-python src/app_modern.py
+python3 src/stopwatch-timer-app.py
 
 ## Features
 
 Stopwatch  
 Timer  
-Minimal UI  
+Minimal UI
+Light/Dark Theme switcher
+Roller Picker (iOS Style)
 Expandable architecture
 
 ---
