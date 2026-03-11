@@ -1,6 +1,8 @@
 import time
 
+
 class Timer:
+
     def __init__(self):
         self.duration = 0
         self.end_time = None
@@ -18,8 +20,8 @@ class Timer:
 
     def reset(self):
         self.duration = 0
-        self.running = False
         self.end_time = None
+        self.running = False
 
     def remaining(self):
         if not self.running:

@@ -1,7 +1,11 @@
-customtkinter==5.2.2
+altgraph==0.17.5
+customtkinter>=5.2.2
 darkdetect==0.8.0
 iniconfig==2.3.0
 packaging==26.0
 pluggy==1.6.0
 Pygments==2.19.2
+pyinstaller==6.19.0
+pyinstaller-hooks-contrib==2026.3
 pytest==9.0.2
+setuptools==82.0.1

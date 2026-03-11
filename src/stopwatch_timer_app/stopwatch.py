@@ -1,6 +1,8 @@
 import time
 
+
 class Stopwatch:
+
     def __init__(self):
         self.start_time = None
         self.elapsed = 0
