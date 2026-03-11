@@ -8,12 +8,12 @@ python3 src/stopwatch-timer-app.py
 
 ## Features
 
-Stopwatch  
-Timer  
-Minimal UI
-Light/Dark Theme switcher
-Roller Picker (iOS Style)
-Expandable architecture
+- Stopwatch  
+- Timer  
+- Minimal UI
+- Light/Dark Theme switcher
+- Roller Picker (iOS Style)
+- Expandable architecture
 
 ---
 
