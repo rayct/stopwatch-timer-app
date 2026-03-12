@@ -1,4 +1,4 @@
-# 1️⃣ Create a Virtual Environment
+# 1️⃣ Create a Virtual Environment (venv/env)
 
 From your project root (`stopwatch-timer-app/`):
 
