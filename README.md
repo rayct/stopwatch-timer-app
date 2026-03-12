@@ -14,6 +14,7 @@ python3 src/stopwatch-timer-app.py
 - Light/Dark Theme switcher
 - Roller Picker (iOS Style)
 - Expandable architecture
+- Custom TKinter update
 
 ---
 
