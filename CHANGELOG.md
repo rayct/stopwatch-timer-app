@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.0] - 10-03-2026
+## v[0.1.0] - 12-03-2026
 
 ### Added
 - Stopwatch functionality
@@ -13,3 +13,5 @@
 - Roller animation
 - Alarm notification
 - Lap tracking
+
+
