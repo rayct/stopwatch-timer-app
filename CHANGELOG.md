@@ -11,6 +11,8 @@
 
 ### Planned
 - Roller animation
+- Roller Time Picker
+- Add Roller Picker Inertia
 - Alarm notification
 - Lap tracking
 
