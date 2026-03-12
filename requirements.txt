@@ -1,5 +1,5 @@
 altgraph==0.17.5
-customtkinter==5.2.2
+customtkinter>=5.2.2
 darkdetect==0.8.0
 iniconfig==2.3.0
 packaging==26.0
@@ -9,4 +9,3 @@ pyinstaller==6.19.0
 pyinstaller-hooks-contrib==2026.3
 pytest==9.0.2
 setuptools==82.0.1
--e git+ssh://git@github.com/rayct/stopwatch-timer-app.git@a965f123d50d7f4141b0d9de012bcbd9f837fd30#egg=stopwatch_timer_app
