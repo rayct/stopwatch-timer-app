@@ -1,6 +1,6 @@
 # Changelog
 
-## v[0.1.0] - 12-03-2026
+## v[0.1.0] - 13-03-2026
 
 ### Added
 - Stopwatch functionality
